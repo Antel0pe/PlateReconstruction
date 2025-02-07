@@ -1,0 +1,8 @@
+https://www.earthbyte.org/gplates-2-5-software-and-data-sets/
+https://zenodo.org/records/10270385
+
+Coastlines: "GeoData\FeatureCollections\Coastlines\Global_EarthByte_GPlates_PresentDay_Coastlines.gpmlz"
+Rotation:"GeoData\FeatureCollections\Rotations\Zahirovic_etal_2022_OptimisedMantleRef_and_NNRMantleRef.rot"
+Continents: "GeoData\FeatureCollections\ContinentalPolygons\Global_EarthByte_GPlates_PresentDay_ContinentalPolygons.gpmlz"
+static polygons: "GeoData\FeatureCollections\StaticPolygons\Global_EarthByte_GPlates_PresentDay_StaticPlatePolygons.gpmlz"
+dynamic polygons: "GeoData\FeatureCollections\DynamicPolygons\Zahirovic_etal_2022_Feature_Geometries.gpml"
